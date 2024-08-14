@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.container {
+    margin: auto;
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(15, 212, 196);
+    margin-top: 80px;
+   
+   
+}
+
+.counterValue {
+    font-size: 80px;
+    font-weight: bolder;
+    margin-left: 50px;
+    position: absolute;
+    text-align: center;
+   
+    width: 400px;
+}
+
+.value {
+    margin-top: 50px;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgb(224, 224, 112);
+}
+
+
+
+
